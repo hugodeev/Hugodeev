@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="hugodeev.github.io/Portifolio/" target="_blank">
+  <a href="https://hugodeev.github.io/Portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="mailto:hugo353637@gmail.com" target="_blank">
