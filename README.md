@@ -12,6 +12,16 @@
 📚 Estou sempre em constante evolução, aprendendo novas tecnologias, estudando boas práticas e aplicando código limpo e de qualidade.
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugodeev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodeev&layout=compact&theme=tokyonight&cache_seconds=60" />
+</p>
+
+---
+
 ## ⚙️ Tecnologias & Ferramentas
 
 <p align="center">
@@ -28,17 +38,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugomatias&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomatias&layout=compact&theme=tokyonight" />
-</p>
-
 
 ---
 
